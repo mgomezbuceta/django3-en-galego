@@ -188,3 +188,6 @@ cython_debug/
 .nfs*
 
 # End of https://www.toptal.com/developers/gitignore/api/django,linux
+
+# VSCode
+.vscode/*
