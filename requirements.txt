@@ -336,7 +336,7 @@ myapp == 0.1dev
 # djangoBase/venv/lib64/python3.10/site-packages/openpyxl/utils/dataframe.py: 16
 # djangoBase/venv/lib64/python3.10/site-packages/setuptools/msvc.py: 329
 # djangoBase/venv/lib64/python3.10/site-packages/toml/encoder.py: 273
-numpy == 1.21.5
+numpy == 1.22.0
 
 # djangoBase/venv/lib/python3.10/site-packages/PIL/FpxImagePlugin.py: 17
 # djangoBase/venv/lib/python3.10/site-packages/PIL/MicImagePlugin.py: 20
