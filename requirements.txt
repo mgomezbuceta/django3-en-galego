@@ -302,7 +302,7 @@ lockfile == 0.12.2
 # djangoBase/venv/lib64/python3.10/site-packages/openpyxl/xml/__init__.py: 10
 # djangoBase/venv/lib64/python3.10/site-packages/openpyxl/xml/functions.py: 22
 # djangoBase/venv/lib64/python3.10/site-packages/pip/_vendor/html5lib/treebuilders/etree_lxml.py: 30
-lxml == 4.8.0
+lxml == 4.9.1
 
 # djangoBase/venv/lib/python3.10/site-packages/tests/test_base.py: 12
 # djangoBase/venv/lib/python3.10/site-packages/tests/test_namers.py: 5
