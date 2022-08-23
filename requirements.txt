@@ -43,7 +43,7 @@ Brotli == 1.0.9
 # djangoBase/venv/lib64/python3.10/site-packages/appconf/utils.py: 9
 # djangoBase/venv/lib64/python3.10/site-packages/compressor/offline/jinja2.py: 51
 # djangoBase/venv/lib64/python3.10/site-packages/tests/test_sites.py: 9
-Django == 3.2.14
+Django == 3.2.15
 
 # djangoBase/venv/lib/python3.10/site-packages/compressor/contrib/jinja2ext.py: 1,2,3
 # djangoBase/venv/lib/python3.10/site-packages/compressor/offline/jinja2.py: 7
