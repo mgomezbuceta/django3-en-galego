@@ -490,7 +490,7 @@ selenium == 4.2.0
 # djangoBase/venv/lib64/python3.10/site-packages/calmjs/parse/tests/__init__.py: 10
 # djangoBase/venv/lib64/python3.10/site-packages/calmjs/parse/utils.py: 13,14
 # djangoBase/venv/lib64/python3.10/site-packages/pkg_resources/tests/data/my-test-package-source/setup.py: 1
-setuptools == 59.6.0
+setuptools == 65.5.1
 
 # djangoBase/venv/lib/python3.10/site-packages/filebrowser/management/commands/fb_version_generate.py: 6
 # djangoBase/venv/lib/python3.10/site-packages/filebrowser/management/commands/fb_version_remove.py: 6
