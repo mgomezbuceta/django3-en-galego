@@ -280,7 +280,7 @@ importlib_metadata == 4.6.4
 # djangoBase/venv/lib64/python3.10/site-packages/pip/_vendor/rich/jupyter.py: 86
 # djangoBase/venv/lib64/python3.10/site-packages/pip/_vendor/rich/live.py: 216
 # djangoBase/venv/lib64/python3.10/site-packages/pip/_vendor/rich/pretty.py: 228
-ipython == 7.31.1
+ipython == 8.10.0
 
 # djangoBase/venv/lib/python3.10/site-packages/pip/_internal/network/auth.py: 29
 # djangoBase/venv/lib64/python3.10/site-packages/pip/_internal/network/auth.py: 29
