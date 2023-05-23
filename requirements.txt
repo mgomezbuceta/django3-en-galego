@@ -476,7 +476,7 @@ railroad == 0.5.0
 
 # djangoBase/venv/lib/python3.10/site-packages/django_extensions/management/commands/pipchecker.py: 66
 # djangoBase/venv/lib64/python3.10/site-packages/django_extensions/management/commands/pipchecker.py: 66
-requests == 2.25.1
+requests == 2.31.0
 
 # djangoBase/venv/lib/python3.10/site-packages/django/contrib/admin/tests.py: 35,52,53,63,64,75,76,87,88,98,99,119,144,153
 # djangoBase/venv/lib/python3.10/site-packages/django/test/selenium.py: 73,89
