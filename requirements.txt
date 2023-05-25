@@ -524,7 +524,7 @@ testsuite-prettyprint-traceback == 0.1.0-alpha.2
 
 # djangoBase/venv/lib/python3.10/site-packages/pip/_vendor/tenacity/tornadoweb.py: 23,26
 # djangoBase/venv/lib64/python3.10/site-packages/pip/_vendor/tenacity/tornadoweb.py: 23,26
-tornado == 6.1
+tornado == 6.3.2
 
 # djangoBase/venv/lib/python3.10/site-packages/asgiref/typing.py: 7
 # djangoBase/venv/lib64/python3.10/site-packages/asgiref/typing.py: 7
