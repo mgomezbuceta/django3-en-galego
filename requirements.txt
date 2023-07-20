@@ -75,7 +75,7 @@ PyYAML == 5.4.1
 # djangoBase/venv/lib64/python3.10/site-packages/django_extensions/templatetags/highlighting.py: 40,41,42
 # djangoBase/venv/lib64/python3.10/site-packages/django_extensions/templatetags/syntax_color.py: 43
 # djangoBase/venv/lib64/python3.10/site-packages/reportlab/lib/pygments2xpre.py: 30,31
-Pygments == 2.11.2
+Pygments == 2.15.0
 
 # djangoBase/venv/lib/python3.10/site-packages/slugify/slugify.py: 9
 # djangoBase/venv/lib64/python3.10/site-packages/slugify/slugify.py: 9
