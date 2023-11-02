@@ -358,7 +358,7 @@ phply == 1.2.5
 
 # djangoBase/venv/lib/python3.10/site-packages/django_extensions/management/commands/pipchecker.py: 25,60,61
 # djangoBase/venv/lib64/python3.10/site-packages/django_extensions/management/commands/pipchecker.py: 25,60,61
-pip == 22.0.2
+pip == 23.3
 
 # djangoBase/venv/lib/python3.10/site-packages/PIL/ImageQt.py: 44
 # djangoBase/venv/lib64/python3.10/site-packages/PIL/ImageQt.py: 44
