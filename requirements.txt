@@ -199,7 +199,7 @@ colorama == 0.4.4
 # djangoBase/venv/lib64/python3.10/site-packages/pip/_vendor/requests/help.py: 29
 # djangoBase/venv/lib64/python3.10/site-packages/pip/_vendor/urllib3/contrib/pyopenssl.py: 56,151
 # djangoBase/venv/lib64/python3.10/site-packages/urllib3/contrib/pyopenssl.py: 56,151
-cryptography == 41.0.6
+cryptography == 42.0.0
 
 # djangoBase/base/base.py: 14
 decouple == 0.0.7
